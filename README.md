@@ -1,2 +1,8 @@
 # Filmes em Cartaz
-Projeto feito em React + Typescript usando Axios e Tailwind.
+## Projeto feito como método de estudo.
+
+## Teconologia utilizadas:
+- React (React Hook Form)
+- Typescript
+- Tailwind
+- Axios
