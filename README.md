@@ -1,7 +1,7 @@
 # Filmes em Cartaz
 ## Projeto feito como método de estudo.
 
-## Teconologia utilizadas:
+## Teconologias utilizadas:
 - React
 - Typescript
 - TailwindCSS
